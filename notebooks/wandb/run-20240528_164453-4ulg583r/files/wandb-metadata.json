@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-05-28T14:44:53.913235",
+    "startedAt": "2024-05-28T14:44:53.002488",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "notebooks/UNet_segmentation.ipynb",
+    "codePathLocal": null,
+    "root": "D:/Github Repositories/DLMIA",
+    "git": {
+        "remote": "https://github.com/gijsdesmit/DLMIA.git",
+        "commit": "e43b34fb85f6c091546aa8f01d25572b94f25d01"
+    },
+    "email": "g.desmit@student.utwente.nl",
+    "host": "SnellePCGijs",
+    "username": "gijsd",
+    "executable": "C:\\Users\\gijsd\\anaconda3\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 4201.0,
+        "min": 0.0,
+        "max": 4201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4201.0,
+            "min": 0.0,
+            "max": 4201.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 931.4960899353027,
+            "used": 215.72883224487305
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4070 SUPER",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 15.218692779541016
+    }
+}
